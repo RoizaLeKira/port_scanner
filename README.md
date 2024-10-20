@@ -14,5 +14,5 @@ A simple yet powerful command-line tool for scanning open ports on a target IP a
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/port_scanner.git
+   git clone https://github.com/RoizaLeKira/port_scanner.git
    cd port_scanner
